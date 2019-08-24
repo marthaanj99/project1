@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6043" started-at="2019-08-24T12:41:45Z" finished-at="2019-08-24T12:41:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6043" started-at="2019-08-24T12:41:45Z" finished-at="2019-08-24T12:41:51Z">
+      <class name="screenshot">
+        <test-method status="PASS" signature="openpage()[pri:0, instance:screenshot@16216b3]" name="openpage" is-config="true" duration-ms="3587" started-at="2019-08-24T18:11:42Z" finished-at="2019-08-24T18:11:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openpage -->
+        <test-method status="PASS" signature="screenshoot()[pri:0, instance:screenshot@16216b3]" name="screenshoot" duration-ms="6031" started-at="2019-08-24T18:11:45Z" finished-at="2019-08-24T18:11:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshoot -->
+      </class> <!-- screenshot -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
